@@ -18,15 +18,14 @@ body {
     background-position: center;
     color: gold;
     font-family: sans-serif;
-    line-height: 1.8em;
     padding-top: 2em;
 }
 
 .jumbotron h1 {
     font-family: 'Arvo', courier, serif;
-    line-height: 1.5em;
-    font-size: 3em;
-    padding-bottom: 22px;
+    line-height: 1.1em;
+    margin-bottom: 60px;
+    font-size: 63px
 }
 
 
@@ -37,8 +36,8 @@ body {
 
 .jumbotron p {
     color: gold;
-    font-size: 1.5em;
-    line-height: 1.5em;
-    padding: 0 50px 36px 0;
+    font-size: 1.3em;
+    padding: 0 50px;
+    margin-bottom: 30px;
 
 }
