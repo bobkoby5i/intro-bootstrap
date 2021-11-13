@@ -39,5 +39,48 @@ body {
     font-size: 1.3em;
     padding: 0 50px;
     margin-bottom: 30px;
+}
 
+.emphasis {
+    color: #e74c3c;
+    font-size: 24px;
+}
+
+.homepage{
+    /* color: red; */
+    text-align: center;
+}
+
+.homepage h2, .homepage h3{
+    color: #e74c3c;
+    font-family: 'Arvo', courier, serif;
+    text-transform: uppercase;
+}
+
+.homepage h2 {
+    font-size: 30px;
+}
+
+.homepage h3 {
+    font-size: 26px;
+}
+
+.homepage p {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+.homepage a {
+    color: #e74c3c;
+
+}
+
+
+
+.homepage hr {
+    width: 160px;
+    margin: 10px auto 10px auto;
+    color: #e74c3c;
+    border-top: 1px solid;
+    opacity: 1;
 }
