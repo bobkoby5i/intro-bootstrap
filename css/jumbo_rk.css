@@ -7,14 +7,38 @@ body {
     color: red;
 }
 
-h1 {
-    line-height: 1.5em;
-}
+
+
 
 .jumbotron {
     text-align: center;
     background-image: url(../images/hero_image.jpg);
-    color: white;
+    /* https://www.pxfuel.com/en/free-photo-xppgl/download */
+    /* background-image: url(../images/car_sepia_2.jpg); */
+    background-position: center;
+    color: gold;
     font-family: sans-serif;
     line-height: 1.8em;
+    padding-top: 2em;
+}
+
+.jumbotron h1 {
+    font-family: 'Arvo', courier, serif;
+    line-height: 1.5em;
+    font-size: 3em;
+    padding-bottom: 22px;
+}
+
+
+.btn-lg {
+    font-size: 36px;
+
+}
+
+.jumbotron p {
+    color: gold;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    padding: 0 50px 36px 0;
+
 }
