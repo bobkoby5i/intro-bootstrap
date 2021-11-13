@@ -16,9 +16,9 @@ body {
     /* https://www.pxfuel.com/en/free-photo-xppgl/download */
     /* background-image: url(../images/car_sepia_2.jpg); */
     background-position: center;
-    color: gold;
+    color: white;
     font-family: sans-serif;
-    padding-top: 2em;
+    padding: 30px 48px 30px 48px;
 }
 
 .jumbotron h1 {
@@ -35,14 +35,14 @@ body {
 }
 
 .jumbotron p {
-    color: gold;
+    color: white;
     font-size: 1.3em;
-    padding: 0 50px;
+    padding: 0 50px 48px;
     margin-bottom: 30px;
 }
 
 .emphasis {
-    color: #e74c3c;
+    color: #1951e7;
     font-size: 24px;
 }
 
@@ -51,10 +51,23 @@ body {
     text-align: center;
 }
 
+
+.homepage a {
+    text-decoration: none;
+}
+.homepage a:hover {
+    /* text-decoration: underline; */
+    color: #1951e7;
+    opacity: 0.8;
+}
+
+
 .homepage h2, .homepage h3{
-    color: #e74c3c;
+    color: #1951e7;
     font-family: 'Arvo', courier, serif;
     text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 .homepage h2 {
@@ -67,12 +80,11 @@ body {
 
 .homepage p {
     font-size: 21px;
-    font-weight: 300;
+    font-weight: 3git pu00;
 }
 
 .homepage a {
-    color: #e74c3c;
-
+    color: #1951e7;
 }
 
 
@@ -80,7 +92,7 @@ body {
 .homepage hr {
     width: 160px;
     margin: 10px auto 10px auto;
-    color: #e74c3c;
+    color: #1951e7;
     border-top: 1px solid;
     opacity: 1;
 }
