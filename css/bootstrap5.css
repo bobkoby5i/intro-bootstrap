@@ -1,0 +1,11 @@
+/* move down content because we have navbar that is 50px tall */
+body {
+    /*padding-top: 50px;*/
+    /*padding-bottom: 20px;*/
+}
+.homepage{
+    /* color: red; */
+    text-align: center;
+    padding: 30px 15px 30px 15px;
+}
+

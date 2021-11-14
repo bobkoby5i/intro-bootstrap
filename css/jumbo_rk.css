@@ -27,7 +27,7 @@ body {
 .jumbotron h1 {
     font-family: 'Arvo', courier, serif;
     line-height: 1.1em;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     font-size: 63px
 }
 
@@ -39,7 +39,7 @@ body {
 
 .jumbotron p {
     color: white;
-    font-size: 1.3em;
+    font-size: 1.8em;
     padding: 0 50px 48px;
     margin-bottom: 30px;
 }
@@ -116,6 +116,9 @@ footer {
         font-size: 56px;
         margin-bottom: 30px;
     }
+    .jumbotron p {
+        font-size: 26px;
+    }
     .btn-lg {
         font-size: 30px;
     }
@@ -127,7 +130,7 @@ footer {
         margin-bottom: 10px;
     }
     .jumbotron p {
-        font-size: 28px;
+        font-size: 24px;
         margin-bottom: 15px;
         padding: 0px 10px;
     }
