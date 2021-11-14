@@ -21,6 +21,7 @@ body {
 
 .jumbo p {
     color: white;
+    font-family: sans-serif;
     font-size: 1.8em;
     padding: 0 50px 48px;
     margin-bottom: 30px;
@@ -119,10 +120,7 @@ h2 {
 #get-involved {
     background-color: #f0eced;
 }
-.jumbo p  {
-    font-family: "Calibri";
-    font-weight: 100;
-}
+
 footer {
     background-color: #0d6efd;
     padding-top: 50px;
